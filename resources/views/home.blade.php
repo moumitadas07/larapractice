@@ -1,1 +1,1 @@
-<h1>Welcome Home</h1>
+<h1>Hello, Welcome to the git!</h1>
